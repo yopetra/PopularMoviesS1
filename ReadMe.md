@@ -15,3 +15,8 @@ private static final String API_KEY = "INPUT HERE YOUR API KEY";
 
 In this project I've learned:
 
+- adapter for RecyclerView
+- JSON parsing the date from the API
+- data saving in Bundle when screen rotates from portrait for landscape and back
+- AsyncTask for query from the API
+- GridLayoutManager for RecyclerView
