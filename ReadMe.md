@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This is a irst part of the app, which shows list of movies. That list can de sorted by popularity or top rated. Data in this app comes from the API, and student should make a query to the API and reveive the result.
+This is a first part of the app, which shows list of movies. That list can de sorted by popularity or top rated. Data in this app comes from the API, and student should make a query to the API and reveive the result.
 
 ## How to lauch this project
 
